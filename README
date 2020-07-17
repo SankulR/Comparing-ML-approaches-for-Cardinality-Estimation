@@ -1,0 +1,5 @@
+We try to implement and replicate two recently proposed ML approaches for cardinality estimation - MSCN (Multi-set convolutional network and DeepDB.
+The main aim is to compare the performances of these two approaches on a common workload - IMDB Dataset and JOBlight benchmark.
+And hence, find a suitable ML model that can accurately predict cardinalities.
+
+Here we have our results for both these approaches.
